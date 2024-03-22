@@ -1,0 +1,27 @@
+.subscription-box {
+    background-color: #F8FAFF;
+    padding: 20px;
+    width: 500px;
+}
+
+.subscription-box h1 {
+    color: black;
+    font-size: 35px;
+}
+
+.subscription-box p {
+    color: #3C763D;
+}
+
+.subscription-box input[type=email] {
+   padding: 10px;
+   margin-bottom: 20px;
+   width: calc(100% - 22px);
+}
+
+.subscription-box button {
+   background-color: #425FEC;
+   color: white;
+   border:none; 
+   padding:10px 20px; 
+}
